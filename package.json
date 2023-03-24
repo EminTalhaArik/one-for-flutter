@@ -4,6 +4,7 @@
   "publisher":"one-for-flutter-extension",
   "description": "",
   "version": "0.0.2",
+  "icon" : "media/Market.png",
   "engines": {
     "vscode": "^1.0.0"
   },
