@@ -6,6 +6,13 @@ Please file any issues you encounter in [that repository](https://github.com/Emi
 
 ## Features
 
+## Plugin Images
+![Widget Image](media/widget.png)
+
+![Dart Image](media/dart.png)
+
+![Layout Image](media/layout.png)
+
 Click on the One For Flutter icon from the side menu to open the panel.
 Select Widget, Layout, or Dart from the select box and insert your code into the editor.
 
