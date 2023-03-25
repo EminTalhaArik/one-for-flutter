@@ -7,10 +7,14 @@ Please file any issues you encounter in [that repository](https://github.com/Emi
 ## Features
 
 ## Plugin Images
+
+**Widget Section**
 ![Widget Image](media/widget.png)
 
+**Dart Section**
 ![Dart Image](media/dart.png)
 
+**Layout Section**
 ![Layout Image](media/layout.png)
 
 Click on the One For Flutter icon from the side menu to open the panel.
